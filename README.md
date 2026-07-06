@@ -8,7 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-delivery12335-181717?style=flat&logo=github)](https://github.com/delivery12335)
 [![Email](https://img.shields.io/badge/Email-constantinov.maxim%40ceiti.md-D14836?style=flat&logo=gmail&logoColor=white)](mailto:constantinov.maxim@ceiti.md)
-[![Telegram](https://img.shields.io/badge/Telegram-%40your__telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/your_telegram)
+[![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-%40delivery__studio__request__bot-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/delivery_studio_request_bot)
 
 </div>
 
@@ -52,7 +52,7 @@
 
 - GitHub: [github.com/delivery12335](https://github.com/delivery12335)
 - Email: [constantinov.maxim@ceiti.md](mailto:constantinov.maxim@ceiti.md)
-- Telegram: [@your_telegram](https://t.me/your_telegram)
+- Telegram Bot: [@delivery_studio_request_bot](https://t.me/delivery_studio_request_bot)
 
 ---
 
