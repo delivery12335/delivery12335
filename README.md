@@ -6,7 +6,6 @@
 
 Я создаю сайты, простые веб-приложения, браузерные игры, Telegram-ботов, UI-дизайны в Figma и UML-диаграммы. Сейчас развиваюсь во Frontend-разработке и собираю портфолио для первых коммерческих проектов.
 
-[![Profile views](https://komarev.com/ghpvc/?username=delivery12335&label=Просмотры%20профиля&color=0e75b6&style=flat)](https://github.com/delivery12335)
 [![GitHub](https://img.shields.io/badge/GitHub-delivery12335-181717?style=flat&logo=github)](https://github.com/delivery12335)
 [![Email](https://img.shields.io/badge/Email-constantinov.maxim%40ceiti.md-D14836?style=flat&logo=gmail&logoColor=white)](mailto:constantinov.maxim@ceiti.md)
 [![Telegram](https://img.shields.io/badge/Telegram-%40your__telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/your_telegram)
