@@ -49,42 +49,6 @@
 
 </div>
 
-## Проекты
-
-### Browser Clicker Game
-
-Браузерная игра на HTML, CSS и JavaScript. В игре есть клики, деньги, улучшения, бусты, автодоход и адаптивный интерфейс.
-
-**Навыки:** HTML, CSS, JavaScript, игровая логика, адаптивная верстка.
-
-### JavaScript Web App
-
-Небольшое веб-приложение с формами, кнопками, событиями, работой с DOM и сохранением данных.
-
-**Навыки:** JavaScript, DOM, события, формы, localStorage.
-
-### Application Design Project
-
-Проектирование приложения в одном репозитории. В проекте есть UI-дизайн в Figma и UML-диаграммы для планирования структуры приложения.
-
-**Навыки:** Figma, UML, проектирование интерфейса, планирование структуры.
-
-### Telegram Bot
-
-Простой Telegram-бот для автоматизации задач, обработки сообщений и работы с пользователями.
-
-**Навыки:** Telegram Bot API, обработка сообщений, автоматизация.
-
-## GitHub Статистика
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=delivery12335&show_icons=true&theme=tokyonight&hide_border=true&locale=ru)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=delivery12335&layout=compact&theme=tokyonight&hide_border=true&locale=ru)
-
-</div>
-
 ## Контакты
 
 - GitHub: [github.com/delivery12335](https://github.com/delivery12335)
